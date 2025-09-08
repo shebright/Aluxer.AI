@@ -1,9 +1,5 @@
 # Auralix.ai
 
-**Where Meetings Turn into Momentum**
-
-📹 **[Watch Demo Video](https://youtu.be/b38ItkhMtxQ)**
-
 Auralix.ai is an AI-powered async agent that captures meetings, transcribes them in real-time, summarizes team discussions, and auto-syncs tasks to Notion, Slack, and GitHub. It also pulls team activity from GitHub and Notion, summarizes each member's progress using Gemini, and sends clean Slack updates, automates everything — giving async visibility without the overhead of manual standups.
 
 ---
